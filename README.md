@@ -5,4 +5,8 @@ Nod de achiziție a temperaturii bazat pe Arduino Uno.
 
 ## Autor
 Niculae-Craciun Alexandru-Kevin - 4LF342
+
+## Hardware
+Arduino Uno R3, senzor de temperatură TMP36
+
 EOF
