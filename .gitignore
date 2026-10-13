@@ -6,4 +6,4 @@ build/
 # Jurnale
 *.log
 # Setări personale ale editorului
-.vscode/
+.vscode/secrets.txt
