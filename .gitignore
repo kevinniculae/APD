@@ -7,3 +7,5 @@ secrets.txt
 *.log
 # Setări personale ale editorului
 .vscode/secrets.txt
+
+notite.txt
