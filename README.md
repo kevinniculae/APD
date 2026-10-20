@@ -16,3 +16,4 @@ Autor laborator: Niculae-Craciun Alexandru-Kevin
 - SERIAL_BAUD: viteza portului serial
 - LED_PIN: pinul LED-ului de stare
 - BUTTON_PIN: pinul butonului de pornire/oprire a achiziției
+Comunicație serială la 115200 baud
