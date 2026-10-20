@@ -4,7 +4,7 @@
 
 #define SENSOR_PIN          A0
 #define SAMPLE_PERIOD_MS    1000 // compromis: 1 s (consum redus, dinamică suficientă)
-#define SERIAL_BAUD         9600
+#define SERIAL_BAUD         19200
 #define LED_PIN 13 // LED de stare
 #define BUTTON_PIN 2 // buton de pornire/oprire achiziție
 
