@@ -23,3 +23,5 @@ Comunicație serială la 115200 baud (implicit) sau la 19200 baud (mod compatibi
 | Senzor | Interfață | Domeniu |
 |---|---|---|
 | TMP36 | Analogic (A0) | -40°C .. +125°C |
+
+Actualizare README pentru Exercitiul 2.
