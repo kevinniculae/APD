@@ -7,5 +7,6 @@
 #define SERIAL_BAUD         115200 // viteză mare; 19200 doar pentru echipamente vechi
 #define LED_PIN 13 // LED de stare
 #define BUTTON_PIN 2 // buton de pornire/oprire achiziție
+#define ALARM_TEMP_C 45.0
 
 #endif
